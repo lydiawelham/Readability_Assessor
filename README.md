@@ -14,4 +14,4 @@ in the terminal, followed by
 
 to run and enter the block of text you wish to assess:
 
-<img width="1092" alt="Screenshot 2021-11-13 at 14 26 46" src="https://user-images.githubusercontent.com/90731882/141647467-b12c2e62-c011-4cb2-af7e-140d5e848aa2.png">
+<img width="1092" alt="Screenshot 2021-11-13 at 14 29 08" src="https://user-images.githubusercontent.com/90731882/141647548-2e852277-635b-4046-bc79-270e7839ec9d.png">

@@ -1,9 +1,10 @@
-#include <cs50.h>
+//#include <cs50.h>
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
 #include <math.h>
 
+typedef char string[4096];
 double count_letters(string text);
 int count_words(string text);
 double count_sentences(string text);
@@ -13,8 +14,9 @@ int main(void)
 
     //Prompts user for text
 
-    string text = get_string("Text: \n");
-
+    string text = "";
+    printf("Text: \n");
+    fgets(text,4096,stdin);
     //Calculates no. of letters, words and sentences
 
     double letters = count_letters(text);
